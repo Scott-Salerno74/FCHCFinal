@@ -1,4 +1,4 @@
-public class FirstChoiceHillClimbing{
+public class FirstChoiceHillClimbing extends EightQueensProblem<S,A>{
 
     private  EightQueensProblem<S,A> problem = new EightQueensProblem();
 
